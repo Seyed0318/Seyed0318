@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋
+My name is Seyed and I am learning how to use Guthub.
+
+I like to learn through practice but I dont mind reading or asking for help when needed.
 
 <!--
 **Seyed0318/Seyed0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
